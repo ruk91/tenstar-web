@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/testar-web/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/testar-web/static/js/main.f5fd4e1a.chunk.js",
-    "main.js.map": "/testar-web/static/js/main.f5fd4e1a.chunk.js.map",
-    "runtime-main.js": "/testar-web/static/js/runtime-main.a5daa279.js",
-    "runtime-main.js.map": "/testar-web/static/js/runtime-main.a5daa279.js.map",
-    "static/js/2.6e46acf4.chunk.js": "/testar-web/static/js/2.6e46acf4.chunk.js",
-    "static/js/2.6e46acf4.chunk.js.map": "/testar-web/static/js/2.6e46acf4.chunk.js.map",
-    "index.html": "/testar-web/index.html",
-    "precache-manifest.833b392151a456a63626191a4b1cce0a.js": "/testar-web/precache-manifest.833b392151a456a63626191a4b1cce0a.js",
-    "service-worker.js": "/testar-web/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/testar-web/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.6e46acf4.chunk.js.LICENSE.txt": "/testar-web/static/js/2.6e46acf4.chunk.js.LICENSE.txt"
+    "main.css": "/tenstar-web/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/tenstar-web/static/js/main.d4333c4b.chunk.js",
+    "main.js.map": "/tenstar-web/static/js/main.d4333c4b.chunk.js.map",
+    "runtime-main.js": "/tenstar-web/static/js/runtime-main.a88bad98.js",
+    "runtime-main.js.map": "/tenstar-web/static/js/runtime-main.a88bad98.js.map",
+    "static/js/2.01f118a7.chunk.js": "/tenstar-web/static/js/2.01f118a7.chunk.js",
+    "static/js/2.01f118a7.chunk.js.map": "/tenstar-web/static/js/2.01f118a7.chunk.js.map",
+    "index.html": "/tenstar-web/index.html",
+    "precache-manifest.e56d7b8f0b5d3f04314a5361bff259bb.js": "/tenstar-web/precache-manifest.e56d7b8f0b5d3f04314a5361bff259bb.js",
+    "service-worker.js": "/tenstar-web/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/tenstar-web/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.01f118a7.chunk.js.LICENSE.txt": "/tenstar-web/static/js/2.01f118a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5daa279.js",
-    "static/js/2.6e46acf4.chunk.js",
+    "static/js/runtime-main.a88bad98.js",
+    "static/js/2.01f118a7.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f5fd4e1a.chunk.js"
+    "static/js/main.d4333c4b.chunk.js"
   ]
 }
